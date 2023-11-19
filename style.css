@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    border: border-box;
+}
+
+/** First Box**/
+
+.first_box{
+    background-color: #D2B7E5;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.moto{
+    color: #9163CB;
+    font-size: 120px;
+    font-family: unbounded;
+    text-align: center;
+    padding: 10%;
+}
+
+.second_box{
+    background-color: #9163CB;
+    height: 700px;
+    display: flex;
+    align-items: center;
+}
+
+/**Box 2**/
