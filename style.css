@@ -5,7 +5,7 @@
 
 /** First Box**/
 
-.first_box{
+.first_box {
     background-color: #D2B7E5;
     height: 800px;
     display: flex;
@@ -13,7 +13,7 @@
     justify-content: center;
 }
 
-.moto{
+.moto {
     color: #9163CB;
     font-size: 120px;
     font-family: unbounded;
@@ -21,11 +21,127 @@
     padding: 10%;
 }
 
-.second_box{
+/**Box 2**/
+
+.second_box {
     background-color: #9163CB;
     height: 700px;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
-/**Box 2**/
+.detail{
+    width: 40%;
+}
+
+.heading{
+    color: black;
+    font-size: 80px;
+    font-family: unbounded;
+}
+
+.description{
+    margin-top: 40px;
+    color: white;
+    font-size: 32px;
+    font-family: Figtree;
+    font-weight: 500;
+}
+
+.skull_image{
+    font-size: 450px;
+}
+
+/**Box 3 **/
+
+.third_box{
+    height: 800px;
+    background-color: #D2B7E5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.first_image{
+    height: 500px;
+    width: 450px;
+    background-size: cover;
+    background-image: url(images/first_image.jpg);
+    border-radius: 40px;
+}
+
+.first_card{
+    padding-left: 100px;
+    width: 30%;
+}
+
+.one{
+    padding-left: 20px;
+    padding-top: 25px;
+    font-family: unbounded;
+    font-size: 30px;
+}
+
+.two{
+    padding-left: 20px;
+    padding-top: 10px;
+    font-family: Figtree300;
+    font-size: 20px;
+    width: 60%; 
+}
+
+.second_image{
+    height: 500px;
+    width: 450px;
+    background-size: cover;
+    background-image: url(images/second_image.jpeg);
+    border-radius: 40px;
+}
+
+/**Box 4**/
+
+.fourth_box{
+    height: 500px;
+    background-color: #D2B7E5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.forth_pad{
+    width: 70%;
+}
+
+.service_tile{
+    color: black;
+    font-size: 60px;
+    font-family: unbounded;
+}
+
+.service_about{
+    margin-top: 40px;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: Figtree;
+    font-weight: 500;
+    width: 600px;
+}
+
+.stats{
+    margin-top: 40px;
+    display: flex; 
+}
+
+.pad{
+    padding-right: 40px;
+}
+.num{
+    font-family: Unbounded;
+    font-size: 40px;
+}
+.num2{
+    font-family: Figtree;
+    font-size: 20px;
+}
