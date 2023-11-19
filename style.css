@@ -145,3 +145,163 @@
     font-family: Figtree;
     font-size: 20px;
 }
+
+/** Box 5**/
+
+.fifth_box{
+    height: 600px;
+    background-color: #D2B7E5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.pack1{
+    width: 500px;
+    height: 500px;
+    background-color: #c6a4de;
+    border-radius: 20px;
+    margin: 30px;
+}
+
+.a1{
+    font-family: Figtree;
+    font-size: 16px;
+    padding-left: 25px;
+    padding-top: 30px;
+}
+
+.a2{
+    font-family: Unbounded;
+    font-size: 50px;
+    padding: 25px;
+}
+
+.profit{
+    font-family: Figtree;
+    font-size: 18px;
+    padding-left: 25px;
+    padding-top: 30px;
+    font-weight: bold;
+}
+.profit p{
+    padding-bottom: 10px;
+}
+
+.now{
+    width: 400px;
+    height: 50px;
+    background-color: #9163CB;
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    font-family: Figtree;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/**Box 6**/
+
+.sixth_box{
+    height: 500px;
+    background-color: #D2B7E5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.join{
+    font-family: Unbounded;
+    font-size: 60px;
+    padding: 25px;
+}
+.join_about{
+    
+    font-family: Figtree;
+    font-size: 22px;
+    padding-left: 25px;
+    padding-top: 15px;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-weight: bold;
+}
+.reservation{
+    height: 50px;
+    width: 250px;
+    background-color: #9163CB;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    font-family: Figtree;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
+
+/**Box 7 **/
+
+.seventh_box{
+    height: 550px;
+    background-color: #D2B7E5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card{
+    background-color: #c6a4de;
+    height: 450px;
+    width: 400px;
+    margin-right: 30px;
+    border-radius: 30px;
+    
+}
+.self_pic1{
+    height: 60px;
+    width: 60px;
+    background-image: url(images/profile_1.jpeg);
+    background-size: cover;
+    border-radius: 30px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.post{
+    font-family: Figtree;
+    font-size: 22px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 150px;
+    font-weight: bold;
+}
+
+.name{
+    padding-left: 30px;
+    padding-top: 110px;
+    font-family: Figtree;
+    font-size: 18px;
+}
+
+.self_pic2{
+    height: 60px;
+    width: 60px;
+    background-image: url(images/profile_2.jpeg);
+    background-size: cover;
+    border-radius: 30px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.self_pic3{
+    height: 60px;
+    width: 60px;
+    background-image: url(images/profile_4.jpeg);
+    background-size: cover;
+    border-radius: 30px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
