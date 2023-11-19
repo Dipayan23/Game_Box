@@ -305,3 +305,51 @@
     margin-top: 30px;
     margin-left: 30px;
 }
+/**Footer**/
+footer{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    
+    background-color: #D2B7E5;
+}
+.c{
+    
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 250px;
+    font-family: Figtree;
+    font-size: 22px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+
+}
+.c p{
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+.c a{
+    padding-bottom: 5px;
+}
+.c a:hover{
+    font-weight:bolder;
+}
+
+/**End**/
+.end{
+    display: flex;
+    height: 60px;
+    justify-content: space-between;
+    background-color: #D2B7E5;
+    font-size: 15px;
+    
+}
+.end i{
+    font-size: 20px;
+}
+.end div{
+    padding: 25px;
+    font-family: Figtree;
+}
